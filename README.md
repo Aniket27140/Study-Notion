@@ -26,6 +26,10 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
+
+Front-End Link: https://study-notion-full.vercel.app/
+
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
